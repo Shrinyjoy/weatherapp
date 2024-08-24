@@ -8,7 +8,6 @@ import humidity_icon from "../assets/humidity.png";
 import rain_icon from "../assets/rain.png";
 import snow_icon from "../assets/snow.png";
 import wind_icon from "../assets/wind.png";
-// import { calculateNewValue } from "@testing-library/user-event/dist/utils";
 
 const Weather = () => {
 
@@ -37,7 +36,6 @@ const Weather = () => {
             return;
         }
         try{
-            // const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${process.env.REACT_APP_ID}`;
             const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=e5ca3ab2fad03c68c27fbb0b2b2ba591`;
 
             const response = await fetch(url);
@@ -63,7 +61,6 @@ const Weather = () => {
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
     useEffect(()=>{
-        // console.log('API Key:', process.env.REACT_APP_ID);
         search("Brisbane");
     },[])
 
