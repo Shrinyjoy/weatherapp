@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/weatherapp.git/static/css/main.63a58034.css",
-    "main.js": "/weatherapp.git/static/js/main.8daf0a44.js",
-    "static/js/453.0ccb7fb4.chunk.js": "/weatherapp.git/static/js/453.0ccb7fb4.chunk.js",
-    "static/media/cloud.png": "/weatherapp.git/static/media/cloud.20f353f873a9b27949a9.png",
-    "index.html": "/weatherapp.git/index.html",
-    "main.63a58034.css.map": "/weatherapp.git/static/css/main.63a58034.css.map",
-    "main.8daf0a44.js.map": "/weatherapp.git/static/js/main.8daf0a44.js.map",
-    "453.0ccb7fb4.chunk.js.map": "/weatherapp.git/static/js/453.0ccb7fb4.chunk.js.map"
+    "main.css": "/weatherapp/static/css/main.63a58034.css",
+    "main.js": "/weatherapp/static/js/main.d15b4d12.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/weatherapp/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/cloud.png": "/weatherapp/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/weatherapp/index.html",
+    "main.63a58034.css.map": "/weatherapp/static/css/main.63a58034.css.map",
+    "main.d15b4d12.js.map": "/weatherapp/static/js/main.d15b4d12.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/weatherapp/static/js/453.0ccb7fb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63a58034.css",
-    "static/js/main.8daf0a44.js"
+    "static/js/main.d15b4d12.js"
   ]
 }
